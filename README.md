@@ -1,4 +1,4 @@
-<h2 align="center">Wallpapers</h2>
+<h1 align="center">Wallpapers</h1>
 
 ![imagen](https://github.com/Mr-S4mura1/Wallpapers/assets/113269686/d51600c0-7590-41ec-8fd9-1560902bc03d)
 
